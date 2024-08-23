@@ -1,0 +1,28 @@
+dh = 600m
+g = 9.81m/s²
+m = 4000kg
+η1 = 0.4
+η2 = 0.9
+
+
+Insgesammten wirkungsgrad berechnen
+-----------------------------------
+η = η1 * η2
+η = 0.4 * 0.9
+η = 0.36
+
+Benötigte Energie für den aufzug berechnen
+------------------------------------------
+E(aufzg) = mgh
+E = 4000kg * 9.81m/s² * 600m
+E = 23544 kJ
+
+
+Wirkungsgrad anwenden
+---------------------
+E(in) = E / η
+E(in) = 23544kJ / 0.36
+
+
+E(in) = 65.4 MJ
+===============

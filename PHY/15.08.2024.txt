@@ -1,0 +1,64 @@
+1
+a
+m=20kg
+s=10m
+g=9.81m/s²
+
+E=mgh
+E=20kg * 9.81m/s² * 10m
+E=1962kgm²/s²
+E=1962J
+
+W=dE
+W=E1 - E0
+W=E - 0
+W=E
+W=1962J
+
+W=Fs
+F=mg
+W=mgs
+s=h
+W=mgh
+W=20kg * 9.81m/s² * 10m
+W=1962kgm²/s²
+W=1962J
+
+
+2
+m=1500kg
+v=72km/h
+
+E=1/2 m*v²
+E=1/2 1500kg * 72km/h
+E=112500kgkm/2h
+E=56250kgkm/h
+E=2.025*10^8 kgkm/s
+E=2.025*10^11 J
+E=202.5GJ
+
+E0=202.5GJ
+E1=1/4 E0
+E1=WTFFF#
+
+
+3
+[W] = [J/s]
+P=E/t
+P=160w
+t=1h = 60min = 3600s
+E=P*t
+E=160W * 3600s
+E=576kJ
+
+E = mgh
+h = E/mg
+h80 = 576kJ / (80kg*9.81m/s²)
+h80 = 733.9449m
+
+h100 = 576kJ / (100kg*9.81m/s²)
+h100 = 587.1559m
+
+
+4
+
