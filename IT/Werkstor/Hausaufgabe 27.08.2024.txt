@@ -1,0 +1,12 @@
+Steuerstromkreis:
+Öffenen:
+Wenn S1 betätigt wird fließt Strom durch den ersten Strompfad und betätigt Q1.
+Hierdurch wird der Motor eingeschaltet, der dritte Strompfad unterbrochen und der zweite Strompfad geschlossen.
+Wenn S1 nicht mehr betätigt wird fließt Strom immernoch durch Q1, der Stromkreis ist somit selbsthaltend.
+Der Stromkreis kann unterbrochen werden indem S0 manuell oder B3 mechanisch betätigt wird.
+
+Schliessen:
+Wenn S2 betätigt wird fließt Strom durch den dritte Strompfad und betätigt Q2.
+Hierdurch wird der Motor eingeschaltet, der erste Strompfad unterbrochen und der vierte Strompfad geschlossen.
+Wenn S2 nicht mehr betätigt wird fließt Strom immernoch durch Q2, der Stromkreis ist somit selbsthaltend.
+Der Stromkreis kann unterbrochen werden indem S0 manuell oder B3 mechanisch betätigt wird.
