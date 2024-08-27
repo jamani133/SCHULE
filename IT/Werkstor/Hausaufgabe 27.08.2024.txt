@@ -2,8 +2,8 @@ Wenn S1:13/14 betätigt wird,  schaltet Q1:A1/A2 in Str. 1.
 Hierdurch wird der Motor M1 über Q1:½,¾,5/6  eingeschaltet.
 Der Strompfad 3 wird über  Q1:21/22 unterbrochen und am Schalten gehindert.
 Der Strompfad 2 wird über Q1:13/14 geschlossen. 
-Wenn S1 nicht mehr betätigt wird fließt Strom immernoch durch Q1, der Stromkreis ist somit selbsthaltend. 
-Der Stromkreis kann unterbrochen werden indem S0 manuell oder B3 mechanisch betätigt wird. 
+Wenn S1:13/14 nicht mehr betätigt wird fließt Strom immernoch durch Q1:A1/A2, der Stromkreis ist somit selbsthaltend. 
+Der Stromkreis kann unterbrochen werden indem S0:21/22 manuell oder B3:21/22 mechanisch betätigt wird. 
 
   
 
@@ -11,5 +11,5 @@ Wenn S2:13/14 betätigt wird,  schaltet Q2:A1/A2 in Str. 3.
 Hierdurch wird der Motor M1 über Q2:½,¾,5/6  eingeschaltet.
 Der Strompfad 1 wird über  Q2:21/22 unterbrochen und am Schalten gehindert.
 Der Strompfad 4 wird über Q2:13/14 geschlossen. 
-Wenn S2 nicht mehr betätigt wird fließt Strom immernoch durch Q2, der Stromkreis ist somit selbsthaltend. 
-Der Stromkreis kann unterbrochen werden indem S0 manuell oder B4 mechanisch betätigt wird. 
+Wenn S2:13/14 nicht mehr betätigt wird fließt Strom immernoch durch Q2:A1/A2, der Stromkreis ist somit selbsthaltend. 
+Der Stromkreis kann unterbrochen werden indem S0:21/22 manuell oder B4:21/22 mechanisch betätigt wird. 
