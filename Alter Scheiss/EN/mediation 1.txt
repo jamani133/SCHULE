@@ -1,0 +1,98 @@
+notunterkunft		:	emergency shelters
+
+läuft geschmiert	:	all going well
+
+behördengänge		:	visit to a governmental facility
+
+asylverfaghren		:	immigration process
+
+zwischenstops		:	breaks/stops while not having reched trhe goal yet
+
+büffelt			:	hard working
+
+fahrt aufgenommen	:	getting faster
+				starting to work well
+
+herkules aufgabe	:	really hard task
+
+wg			:	shared apartment with multiple people
+
+wermutstopfen		:	will to fight
+
+feste stelle 		:	secure workplace
+
+minijobber		:	similar toa part time job
+
+ist gold wert 		:	is worth a lot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<outline>
+
+ibrahim is an engineer from syria who immigrated to germany
+in his home coutnry he rarely managed to find work so when the war in syria got worse he moved to
+germany, leaving his family behind, in germany he lived in an emergency shelter for a few days before finally finding a real home.
+he sais he still has daily contact with his family and they are happy he managed to turn his life around and follow his dreams
+ibrahim went through great trouble immigrating into germany but he still managed to gain german citizenship in the end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

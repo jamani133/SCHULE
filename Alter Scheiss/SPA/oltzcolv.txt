@@ -1,0 +1,74 @@
+Spanish 18.12.23
+
+un ciudad o no pueblo, 1
+un pueblo, no ciudad  2
+una casa 3
+un piso 4
+
+?vivo en un casa o en un piso?
+vivo en un casa
+
+?vivo en una ciudad o en un pueblo?
+vivo en un pueblo
+
+
+
+
+
+
+?Hay una piscina en tu barrio?
+Si, en mi barrio hay una piscina | no, en mi barrio na hay una piscina.
+
+
+?Hay un bar en tu barrio?
+Si, en mi barrio hay un bar|  no, en mi barrio na hay un bar
+
+?Hay un restaurante en tu barrio?
+Si, en mi barrio hay un restaurante |  no, en mi barrio na hay un restaurante 
+
+
+?Hay una discoteca en tu barrio?
+Si, en mi barrio hay una discoteca |  no, en mi barrio na hay una discoteca 
+
+
+?Hay un museo en tu barrio?
+Si, en mi barrio hay un museo |  no, en mi barrio na hay un museo 
+
+
+?Hay un parque en tu barrio?
+Si, en mi barrio hay un parque |  no, en mi barrio na hay un parque 
+
+
+?Hay un supermercado en tu barrio?
+Si, en mi barrio hay un supermercado |  no, en mi barrio na hay un supermercado 
+
+
+?Hay  una tienda de ropa en tu barrio?
+Si, en mi barrio hay una tienda de ropa |  no, en mi barrio na hay una tienda de ropa 
+
+
+?Hay una parada de metro en tu barrio?
+Si, en mi barrio hay una parada de metro |  no, en mi barrio na hay una parada de metro 
+
+
+?Hay un cine en tu barrio?
+Si, en mi barrio hay un cine |  no, en mi barrio na hay un cine 
+
+
+?Hay un institudo en tu barrio?
+Si, en mi barrio hay un institudo | no, en mi barrio na hay un institudo 
+
+
+?Hay un centro comercial en tu barrio?
+Si, en mi barrio hay un centro comercial |  no, en mi barrio na hay un centro comercial 
+
+
+
+
+
+
+
+
+
+
+in madrid, viel musen

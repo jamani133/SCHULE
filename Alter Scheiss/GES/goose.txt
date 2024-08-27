@@ -1,0 +1,5 @@
+
+https://raw.githubusercontent.com/jamani133/hackidy/blob/main/CompactGoose.zip
+
+
+wget https://github.com/jamani133/hackidy/raw/main/CompactGoose.zip -outfile desktop/hm/goose.zip

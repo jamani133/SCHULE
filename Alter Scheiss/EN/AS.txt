@@ -1,0 +1,92 @@
+[2]
+2.1	GE.:  ST.	->	P.HH.
+
+2.2	GE.:  U.	->	P.HH.
+	GD.:  P.HH.	->	U.
+	
+2.3	GD.:  U.	->	ST.
+	GE.:  ST.	->	U.
+
+2.4	GD.:  Ub.	->	Ua.
+	GE.:  ST.	->	Ub.
+
+2.5	GE.:  U.	->	P.HH.
+	GD.:  P.HH.	->	U.
+
+2.6	GE.:  U.	->	ST.
+
+2.7	GE.:  U.	->	P.HH.
+	GD.:  P.HH.	->	U.
+
+
+[3]
+3.1
+	offene wirtschaft bezieht das ausland mit ein, gechlosse bleibt staats intern
+
+3.2
+	diekonsum ausgaben der phh betragen 1.310.000.000.000 €
+
+3.3
+	240mrd€
+
+3.4	
+	
+
+3.5
+	löhne, pacht, yield, 
+
+3.6
+	
+
+3.7
+	
+
+
+3)
+3.1
+Bei einer offenen Volkswirtschaft wird das Ausland mit in den Wirtschaftskreislauf einbezogen.
+Die geschlossene Volkswirtschaft kommt ohne das Ausland aus.
+3.2 Die Konsumausgaben der p.Hh. sind 1310mrd.€.
+3.3 Die von den Unternehmen in Anspruch genommenen Kredite         sind 240mrd.€.
+3.4 Die Importausgaben der Unternehmen sind 500mrd.€.
+3.5 Löhne, Pacht, Zinsen
+3.6 Direkte Steuern, indirekte Steuern
+3.7 Lohn, Gehalt, Sozialleistungen
+
+
+4.
+
+47mrd
+23mrd
+5919 mrd
+23mrd
+5919€
+23mrd
+5919 mrd
+
+-------------
+402 mrd
+129mrd€
+
+
+
+einkommen staat   100 - 50 + 500 
+
+
+
+5
+
+dieses ict ein text von zeug weil ich die letzte aufgabe nicht gameht habeä
+ajjaja ihcweiss nicht was hier hin kommen soll
+Bei einer offenen Volkswirtschaft wird das Ausland mit in den Wirtschaftskreislauf einbezogen.
+Die geschlossene Volkswirtschaft kommt ohne das Ausland aus.
+5.2 Die Konsumausgaben der p.Hh. sind 1310mrd.€.
+5.3 Die von den Unternehmen in Anspruch genommenen Kredite         sind 240mrd.€.
+5.4 Die Importausgaben der Unternehmen sind 500mrd.€.
+5.5 Löhne, Pacht, Zinsen
+5.5.6 Direkte Steuern, indirekte Steuern
+5.7 Lohn, Gehalt, Sozialleistungen
+5.8 Die Konsumausgaben der p.Hh. sind 1310mrd.€.
+5.9 Die von den Unternehmen in Anspruch genommenen Kredite         sind 240mrd.€.
+5.10 Die Importausgaben der Unternehmen sind 500mrd.€.
+5.11 Löhne, Pacht, Zinsen

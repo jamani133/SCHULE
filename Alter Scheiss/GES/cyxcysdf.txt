@@ -1,0 +1,13 @@
+A   Es la una menos cinco
+B   Son las trey s cuarto
+C   Es las ocho y veinte
+D   Son las ocho en punto
+E   Es la una y veinticinco
+F   Son las doce y media
+
+2
+Es : minute numbers
+Son : abreviations
+
+y:      min <= 30
+menos : min >30

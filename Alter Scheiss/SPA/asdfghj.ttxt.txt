@@ -1,0 +1,27 @@
+yo
+tu
+el , ella
+
+1 yo
+2 tu
+3 el, ella, usted
+4 nosotros,nosotras
+5 vosotros, vosotras
+6 ellos ellas ustedes
+
+
+[4]
+!hola! me llamo dani y yo soy de Malago ?[Y] tu?  
+!hola! XX soy tambien de malaga
+
+tu eres de madrid ?verdad?
+so, yo soy de madrid, pero ella es de malaga
+
+de donde eres
+yo say de espana
+
+quien es sandra, 
+es ella
+
+
+senorfernandez ?es de salamanca?

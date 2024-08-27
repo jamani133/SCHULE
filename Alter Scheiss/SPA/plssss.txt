@@ -1,0 +1,45 @@
+Deberes
+Libro: p.41, 13,14, 15
+CDA: p.23, ,7,8
+
+13
+a	si, mi barrio tambien es muy bonito.
+b	no, mi barrio no es cerca del centro
+c	no, no hay bares y restaurantes en mi barrio
+d	si, hay un parqe en mi barrio
+e	si, mi barrio es muy pequeno
+f	no hay centro comerciales
+g	no, mi bario no es cerca de mi instituto
+h	no, no hay muchos gentes en mi barrio
+i	no hay museo famoso
+j	si, mi barrio no es interesante
+k	si, mi barrio no hay cines
+l	no, no hay parada de metro
+
+
+
+
+
+14
+a	?es tu barrio bonito?
+b	?es tu barrio cerca del centro?
+c	?en tu barrio, hay restaurantes?
+d	?en tu barrio, hay un parque?
+e	?es tu barrio pequeno?
+f	?en tu barrio, hay centro comercial?
+g	?es tu barrio caerca de tu instituto?
+h	?en tu barrio, hay muchos gentes?
+i	?en tu barrio, hay museos famosos?
+j	?es tu barrio interesante?
+k	?en tu barrio, hay cines?
+l	?en tu barrio, hay un parada de metro?
+
+15
+
+
+Mi barrio se llama Malasaña y [esta] en el centro de Madrid.
+El barrio [es] bonito y muy interesante.
+En mi barrio [] bares, restaurantes, tiendas... También [estan] cines, pero [estais] pequeños.
+Mi calle [hay] un poco ruidosa, pero también [son] muchas calles tranquilas.
+Cerca de mi casa [es] la calle Fuencarral, una calle famosa con muchas tiendas de ropa.
+Y tu barrio, ¿cómo [estan]?

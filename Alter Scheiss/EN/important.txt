@@ -1,0 +1,8 @@
+escribir
+
+yo		hablo
+tu		hablas
+el, usted	habla
+nosotros	hablamos
+vosotros	habläis
+ellos, usedes	hablan

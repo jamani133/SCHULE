@@ -1,0 +1,99 @@
+facharbeit verfassen
+--------------------
+
+facharbeit muss frage beantworten
+facharbeit muss irgendetwas erörtern
+
+I Themensuche
+	Brainstorming
+		Begriffe zum Thema
+		Mindmap oder so idfk
+		frgen zum thema
+		
+II Präzisieren (eingrenzen)
+	Schwerpunkt Setzen
+	Thema Eingrenzen
+		"Ich möchte das, aber nddas sondern das..."	
+	Fragestellung
+		muss kontrovers sein
+	Verschiedene Suchbegriffe suchen
+III suchstrategien
+	in "" schreiben "phrasensuchen"
+	schlagwörter verwenden
+	seiten spezifsche suche
+	wikipedia.org:penis
+
+	""      
+	OR / |
+	AND
+	-
+	*
+	()
+	define: 
+	filetype: / ext:
+	site:
+	related:
+	intitle: / allintitle:	
+	inurl: / allinurl:
+	intext: / allintext:
+	in (einheiten konvertieren "40€ in USD")
+	source:   (nur in google news)
+	before: / after:  (nach daten filtern)
+	..  (zahlen zwischen bestimmten werten "30€..50€ fahrrad lampe")
+	AROUND(x) (ungefähre zahen)
+
+IV Befragungen zum thema
+	1.fragebogn erstellen
+		offene befragunge	-> intörösting
+			welche gründe glauben sie sprechen für blablabla
+			individuelle ergebnisse
+		geschlossene frage	->  leicheter auszuwerten
+
+			zustimmung bis ablehnung
+				keine ungeraden zahlen, tendenz isz wichtif
+				aber dann ein "is mir doch egal du arschloch"
+	
+	2. fragebogen testen
+
+	3. befragung durchführen
+		direkte kontakte
+		soziale medien
+		WICHITG: MENGE DER PERSONEN
+		2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

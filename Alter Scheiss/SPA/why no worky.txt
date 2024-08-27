@@ -1,0 +1,8 @@
+?como va Elisa al institudo?  Elisa va al institudo ir en autobus
+?como va Elisa al parque?  Elisa va al parque en bicicleta
+?como va Elisa al cine?  Elisa va al cine ir en metro
+?como va Elisa al supermercado?  Elisa va al supermercado ir en coche
+?como va Elisa a la piscenta?  Elisa va al piscentair a la choche
+?como va Elisa al tran stacion?  Elisa va al tre nstation ir en tren
+
+

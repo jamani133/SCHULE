@@ -1,0 +1,17 @@
+Die Geradensicherung in ihrer Hauptform
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+f(x) = m*x + b
+Gegeben sind die folgenden Daten:
+--------------------------------
+|x   || -3 | -1 |  0 |  2 |  4 |
+--------------------------------
+|f(x)||1/2 |3/2 |  2 |  3 |  4 |
+--------------------------------
+
+
+
+1
+
+geg: m=4   p(3/2 | 2)
+ges f(x) = mx+b
+lös a) punktprobe

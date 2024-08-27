@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="bg.svg"
+   inkscape:export-filename="C:\Users\Jakob\Desktop\WORK\BI\bg.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="699.32861"
+     inkscape:cy="593.26259"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     inkscape:window-x="1"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2376">
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1;"
+         offset="0"
+         id="stop2372" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:0;"
+         offset="1"
+         id="stop2374" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2376"
+       id="radialGradient2378"
+       cx="259.11777"
+       cy="143.68408"
+       fx="259.11777"
+       fy="143.68408"
+       r="133.39423"
+       gradientTransform="matrix(1.9041304,0,0,2.1458625,-239.39398,-101.40625)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0044aa;stroke-width:0.271723"
+       id="rect31"
+       width="508"
+       height="285.75"
+       x="0"
+       y="0"
+       sodipodi:insensitive="true" />
+    <ellipse
+       style="fill:url(#radialGradient2378);fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path295"
+       cx="254"
+       cy="206.92004"
+       rx="254"
+       ry="286.24567"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:1.21341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2460"
+       width="453.8699"
+       height="258.07825"
+       x="27.065037"
+       y="13.835872"
+       sodipodi:insensitive="true" />
+  </g>
+</svg>
