@@ -1,0 +1,3 @@
+Das ER diagramm zeigt die personen nummer von mann und frau, name und vorname, beim mann wird der fußballverein und bei der frau die konfektonsgrösse angegeben
+Der veheiratet link zeigt, dass der mann immer mit einer rau und möglicherwiese mehr verheiratet ist.
+
